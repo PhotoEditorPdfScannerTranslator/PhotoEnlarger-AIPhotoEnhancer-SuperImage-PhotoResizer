@@ -8,15 +8,15 @@
 <p>
   <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/_45SPrwtHF8OTf7UGmb2cv6BigmkPa801dIFayd626DzhPaUYdYd0rMo1LsTs-D0po4=w1052-h592-rw" width="230">
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/Wvg0wYFcjXqgFyZ1ktzxM6f-zmArLpqLbDya3Xp8eD6XaVjIAH76FypznPcJzqHJXQI=w1052-h592-rw" width="230">
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/fCuk8Q_qjLwH-3--YeOumPPUnsDfNzUFbqFshs90rWSBSwzddkDoo7vJjnha6dGcQWM=w1052-h592-rw" width="230">
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/AYPH9cRi0CtHOy0scV0Q2I9HbDc-WaA2VAToF6HJKJQCHWmETEf8P-jFvGLuLRD13g=w1052-h592-rw" width="230">
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/0DZgq_ucffPSfkZlgvdjfdO6TfvIqJspY5FDSqf5aWejXQJdypnJs9ZfJMMOlYJm4sI=w526-h296-rw" width="230">
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/nmL-64CW913oN_feG9qC3ffyQly2trcdCzGEkooYIuVEt5GnYZc2v1Q7e9oulGTm7Q=w1052-h592-rw" width="230">
   <span>&nbsp;</span>
 </p>
